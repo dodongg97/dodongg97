@@ -1,3 +1,8 @@
+<!-- 헤더 배너 (푸른 파도 스타일) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0aa7d8&height=200&section=header&text=환영합니다!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">🤖 안녕하세요! 강동휘입니다.</h1>
 <h3 align="center">SSAFY 14기 | Python Developer in training | Robotics & AI Enthusiast</h3>
 
